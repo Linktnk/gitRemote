@@ -2,7 +2,9 @@
 
 int main()
 {
-printf("Hello hello tum mai mai rub sai");
+
+printf("Yo-Yo World");
+
 
 return 0;
 }
